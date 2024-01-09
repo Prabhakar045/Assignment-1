@@ -1,0 +1,6 @@
+Column Name: id, Column Type: INT, Size: 10, Nullable: false, AutoIncrement: true
+Column Name: productName, Column Type: VARCHAR, Size: 255, Nullable: true, AutoIncrement: false
+Column Name: price, Column Type: DOUBLE, Size: 22, Nullable: true, AutoIncrement: false
+Column Name: category, Column Type: VARCHAR, Size: 255, Nullable: true, AutoIncrement: false
+Column Name: manufacturer, Column Type: VARCHAR, Size: 255, Nullable: true, AutoIncrement: false
+Column Name: description, Column Type: VARCHAR, Size: 255, Nullable: true, AutoIncrement: false
